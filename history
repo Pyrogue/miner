@@ -1,0 +1,6 @@
+//may be unnessasary (fancy character support?) **removed
+//sudo apt-get install libncursesw5-dev
+
+//needed for <ncurses.h>
+sudo apt-get install libncurses5-dev
+
